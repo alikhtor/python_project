@@ -15,8 +15,8 @@ def home(request):
         save_it.save() 
  
     context = {'notes': notes, 'form': form}
-    # return HttpResponse(template.render(context, request))
-    return render(request, 'note.html', context)
+    return HttpResponse(template.render(context, request))
+    # return render(request, 'note.html', context)
     #return render_to_response("note.html", notes)
 
 # def home(request):
