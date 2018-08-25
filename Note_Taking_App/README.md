@@ -19,7 +19,7 @@ The length of the first one is 4 and it containes 4 unique words.
 The length of the second one is also 4, but it has only 2 unique(not repeated words), 2 times 'do' and 2 times 'some',
 so that counts for one plus one respectively, results two in summary.
 
-And the last note got 5 same words, so it counts as one unique.
+And the last note got 5 same words(lowercase or uppercase doesn't matter), so it counts as one unique.
 
 ### Algorithm.
 
