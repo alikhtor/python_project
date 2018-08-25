@@ -5,7 +5,7 @@
 Using Django write a note taking application.
 Display a form for adding the notes on a single application page. 
 Previously added notes (extracted from the database) should be placed under the form,
-and ordered by the number of unique words in a text field.
+and ordered by the number of unique words in the text field.
 
 ### How I get it.
 
