@@ -8,3 +8,4 @@ Previously added notes (extracted from the database) should be placed under the 
 and ordered by the number of unique words in a text field.
 
 Superuser: admin/admin
+Database:  sqlite
