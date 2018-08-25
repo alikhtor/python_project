@@ -9,7 +9,7 @@ and ordered by the number of unique words in the text field.
 
 ### How I get it.
 
-If we have 3 notes, for exsample:
+If we have 3 notes, for example:
 1. To do some sports!
 2. Do some do some.
 3. No no nO NO No.
