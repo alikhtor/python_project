@@ -6,7 +6,7 @@ from .forms import NoteForm
  
 # Create your views here.
 
-def home(request):
+def note(request):
     notes = Note.objects
     '''Write down into the "unique words" variable
     the length of the set (unique list) of words in 
