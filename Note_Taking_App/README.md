@@ -12,7 +12,7 @@ and ordered by the number of unique words in a text field.
 If we have 3 notes, for exsample:
 1. To do some sports!
 2. Do some do some.
-3. No No No No No.
+3. No no nO NO No.
 
 The length of the first one is 4 and it containes 4 unique words.
 
