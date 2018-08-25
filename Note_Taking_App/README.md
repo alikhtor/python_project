@@ -25,7 +25,7 @@ And the last note got 5 same words, so it counts as one unique.
 
 So the rigth order, according to my algorithm, will be: 
 
-note3(len 5, but 1 unique word), note2(len 4, but 2 u/w), note1(length 4, and 4 unique words).
+note3(len 5, but only 1 unique word), note2(len 4, but 2 uws), note1(length 4, and 4 unique words).
 
 ## Thats it!
 
